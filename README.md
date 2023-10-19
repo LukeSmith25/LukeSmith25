@@ -8,10 +8,6 @@
 
 I'm a software engineer driven by innovation and problem-solving. Graduating from Baylor University with a major in Software Engineering and a minor in Business Administration, I've explored various domains, always aiming to create impactful solutions.
 
-## 📊 My GitHub Activity
-
-![Luke's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lukesmith25&theme=react-dark)
-
 ## 🧰 Languages & Tools
 
 - **Languages:** Advanced C++, Advanced Java, Advanced JavaScript, Intermediate SQL, Advanced Beginner Python,
