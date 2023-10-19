@@ -14,11 +14,10 @@ I'm a software engineer driven by innovation and problem-solving. Graduating fro
 
 ## 🧰 Languages & Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukesmith25&layout=compact)
-
-- **Languages:** C++, Java, Python, HTML, CSS, JavaScript, x86
-- **Tools:** Java Spring Framework, Java Swing, SDL Plotter, GitHub, JetBrains IDEs, Visual Paradigm
-- **Technologies:** SQL, Apache-Derby, LaTex 
+- **Languages:** Advanced C++, Advanced Java, Advanced JavaScript, Intermediate SQL, Advanced Beginner Python,
+Intermediate Bash, Advanced Beginner Nodejs
+- **Frameworks:** Nextjs, React, TailwindCSS
+- **Tools:** Java Spring Framework, Java Swing, GitHub, JetBrains IDEs, Figma, Visual Paradigm, SDL Plotter
 
 ## 🌟 Highlights
 
