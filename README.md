@@ -1,30 +1,99 @@
-# 👋 Hey there, I'm Luke Smith!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20there!%20I%27m%20Luke%20Smith%20%F0%9F%9A%80&animation=fadeIn&type=waving&color=gradient&height=150"/>
+</p>
 
-![Banner Image](github-header-image.png) 
+<p align="center">
+  <a href="https://lukesmith25.github.io/PortfolioWebsite/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge"/>
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
-🌐 [Check out my Portfolio](https://lukesmith25.github.io/PortfolioWebsite/)
+---
 
-## About Me 🚀
+## 🚀 **About Me**
 
-I'm a software engineer driven by innovation and problem-solving. Graduating from Baylor University with a major in Software Engineering and a minor in Business Administration, I've explored various domains, always aiming to create impactful solutions.
+```yaml
+name: Luke Smith
+role: Software Engineer | DeFi Enthusiast | Blockchain Developer
+education:
+  - Baylor University, B.Sc. in Software Engineering (Minor in Business Admin)
+  - Graduation: May 2025
+interests:
+  - Blockchain & DeFi Solutions
+  - Full-stack Development
+  - Automating Developer Workflows
+fun_fact: Loves integrating tech with creativity! 🎨🎵
+```
 
-## 🧰 Languages & Tools
+---
 
-- **Languages:** Advanced C++, Advanced Java, Advanced JavaScript, Intermediate SQL, Advanced Beginner Python,
-Intermediate Bash, Advanced Beginner Nodejs
-- **Frameworks:** Nextjs, React, TailwindCSS
-- **Tools:** Java Spring Framework, Java Swing, GitHub, JetBrains IDEs, Figma, Visual Paradigm, SDL Plotter
+## 🧠 **Tech Toolbox**
 
-## 🌟 Highlights
+<h2 align="center">🛠️ &nbsp;Languages and Frameworks</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
+</p>
 
-- **CTO / Lead Software Engineer at Vlyss**: Led the development of an anti-fraud blockchain solution using an array of modern web technologies, with a strong focus on agile methodologies and quality deliverables.
+<h2 align="center">📁 &nbsp;Cloud & Databases</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+</p>
 
-## 🔥 Projects
+---
 
-- **Anti-Fraud Blockchain Solution (Vlyss)**: A Solana blockchain-based solution designed with a user-centric approach. It integrates multiple layers of security to ensure both protection and a seamless user experience.
-  
-- **Hotel Reservation System**: A comprehensive system, leveraging Java and the Spring Framework, aiming to enhance guest satisfaction and optimize room utilization.
+## 🌟 **What I'm Up To**
 
-## 🤝 Let's Connect!
+### 🏛️ **Developer Relations Intern @ Marginfi** *(Sep 2024 - Present)*  
+- 🔄 Boosted SDK adoption by **15%** through technical content & integrations.
+- 💡 Launched a **developer podcast series** featuring Solana founders, increasing platform awareness by **20%**.
+- 📈 Contributed to **$50M** in platform cashflows through active community engagement.
 
-Always open to collaboration, discussions about tech, or brainstorming on innovative ideas. Feel free to connect with me through my portfolio!
+### 🌿 **Software Engineer Intern @ John Deere: Intelligent Solutions Group** *(May 2024 - Aug 2024)*  
+- 💡 Developed a **Java Spring/Next.js** tool, cutting data reprocessing time by **30%**.
+- 🛠️ Enhanced **database traceability** using PostgreSQL & AWS Secrets Manager.
+- 🚀 Delivered **production-ready** solutions under tight deadlines.
+
+### 💼 **Co-Founder @ Vlyss** *(May 2023 - Present)*  
+- 💰 Built a **tax app for Solana blockchain** using **FastAPI**, **PostgreSQL**, & **Docker**.
+- 🛠️ Processed **wallet transactions** and generated **on-chain tax reports**.
+- 📅 Managed agile cycles, ensuring **timely project delivery**.
+
+---
+
+## 🔥 **Cool Projects**
+
+### 🔹 **[Solana Tax App](https://github.com)**  
+*FastAPI, PostgreSQL, Docker, Solana Blockchain*  
+An innovative **tax reporting app** addressing a critical gap in Solana's ecosystem. Automated **transaction parsing** and **tax calculations** with seamless API integrations.
+
+### 🔹 **[Data Reprocessing Tool](https://github.com)**  
+*Java Spring, Next.js, PostgreSQL, AWS*  
+Built a support tool to **optimize data pipeline operations** for John Deere, reducing manual processing time by **30%** and enhancing operational visibility.
+
+### 🔹 **[Anti-Fraud Blockchain Solution](https://github.com)**  
+*React, Node.js, MongoDB, Solana Blockchain*  
+Designed a **secure blockchain-based solution** to mitigate fraud, leading full-stack development from ideation to deployment.
+
+---
+
+## 🤝 **Let's Connect!**
+
+📢 Always open to **collaborations**, **tech discussions**, or **brainstorming** new ideas! Feel free to reach out through my [portfolio](https://lukesmith25.github.io/PortfolioWebsite/), or hit me up on [LinkedIn](https://linkedin.com)!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Thanks%20for%20Stopping%20By!%20%F0%9F%9A%80&animation=fadeIn&type=waving&color=gradient&height=150"/>
+</p>
+
