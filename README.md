@@ -55,7 +55,3 @@ Secure blockchain-based fraud prevention system with full-stack implementation.
 - 💬 Open to collaborating on blockchain and DeFi projects
 - 📫 Best way to reach me: [jlukesmith0221@gmail.com](mailto:jlukesmith0221@gmail.com)
 - 🌐 More about my work: [Portfolio](https://lukesmith25.github.io/PortfolioWebsite/)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LukeSmith25&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
