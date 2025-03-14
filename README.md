@@ -1,99 +1,61 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20there!%20I%27m%20Luke%20Smith&animation=fadeIn&type=waving&color=gradient&height=150"/>
-</p>
+<div align="center">
+  <h1>Luke Smith</h1>
+  <p>Software Engineer & Blockchain Developer</p>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lukesmith25.github.io/PortfolioWebsite/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukesmith2025/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/LukeSmith_X)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlukesmith0221@gmail.com)
+</div>
 
-<p align="center">
-  <a href="https://lukesmith25.github.io/PortfolioWebsite/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge"/>
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+## About Me
+- 🎓 Software Engineering student at Baylor University (Class of 2025)
+- 💼 Developer Relations Intern at Marginfi
+- 🌱 Co-founder of Vlyss, building DeFi solutions
+- 🔧 Previous Software Engineer Intern at John Deere
+- 🏠 Based in Waco, TX
 
----
+## Current Work
+- 📈 Driving SDK adoption and developer engagement at Marginfi
+- 🛠️ Building innovative blockchain solutions for the Solana ecosystem
+- 🎙️ Hosting developer-focused content and podcasts
+- 🚀 Exploring new frontiers in DeFi and Web3
 
-## 🚀 **About Me**
+## Tech Stack
+### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-```yaml
-name: Luke Smith
-role: Software Engineer | DeFi Enthusiast | Blockchain Developer
-education:
-  - Baylor University, B.Sc. in Software Engineering (Minor in Business Admin)
-  - Graduation: May 2025
-interests:
-  - Blockchain & DeFi Solutions
-  - Full-stack Development
-  - Automating Developer Workflows
-fun_fact: Loves integrating tech with creativity! 🎨🎵
-```
+### Infrastructure & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 
----
+## Featured Projects
+### [Solana Tax App](https://github.com/LukeSmith25)
+A first-of-its-kind tax reporting solution for the Solana blockchain, automating transaction analysis and tax calculations.
+`FastAPI` `PostgreSQL` `Docker` `Solana`
 
-## 🧠 **Tech Toolbox**
+### [Data Reprocessing Tool](https://github.com/LukeSmith25)
+Optimized data pipeline operations tool for John Deere, reducing processing time by 30%.
+`Java Spring` `Next.js` `AWS` `PostgreSQL`
 
-<h2 align="center">🛠️ &nbsp;Languages and Frameworks</h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
-</p>
+### [Anti-Fraud Blockchain Solution](https://github.com/LukeSmith25)
+Secure blockchain-based fraud prevention system with full-stack implementation.
+`React` `Node.js` `MongoDB` `Solana`
 
-<h2 align="center">📁 &nbsp;Cloud & Databases</h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
-</p>
+## Get in Touch
+- 💬 Open to collaborating on blockchain and DeFi projects
+- 📫 Best way to reach me: [jlukesmith0221@gmail.com](mailto:jlukesmith0221@gmail.com)
+- 🌐 More about my work: [Portfolio](https://lukesmith25.github.io/PortfolioWebsite/)
 
----
-
-## 🌟 **What I'm Up To**
-
-### 🏛️ **Developer Relations Intern @ Marginfi** *(Sep 2024 - Present)*  
-- 🔄 Boosted SDK adoption by **15%** through technical content & integrations.
-- 💡 Launched a **developer podcast series** featuring Solana founders, increasing platform awareness by **20%**.
-- 📈 Contributed to **$50M** in platform cashflows through active community engagement.
-
-### 🌿 **Software Engineer Intern @ John Deere: Intelligent Solutions Group** *(May 2024 - Aug 2024)*  
-- 💡 Developed a **Java Spring/Next.js** tool, cutting data reprocessing time by **30%**.
-- 🛠️ Enhanced **database traceability** using PostgreSQL & AWS Secrets Manager.
-- 🚀 Delivered **production-ready** solutions under tight deadlines.
-
-### 💼 **Co-Founder @ Vlyss** *(May 2023 - Present)*  
-- 💰 Built a **tax app for Solana blockchain** using **FastAPI**, **PostgreSQL**, & **Docker**.
-- 🛠️ Processed **wallet transactions** and generated **on-chain tax reports**.
-- 📅 Managed agile cycles, ensuring **timely project delivery**.
-
----
-
-## 🔥 **Cool Projects**
-
-### 🔹 **[Solana Tax App](https://github.com)**  
-*FastAPI, PostgreSQL, Docker, Solana Blockchain*  
-An innovative **tax reporting app** addressing a critical gap in Solana's ecosystem. Automated **transaction parsing** and **tax calculations** with seamless API integrations.
-
-### 🔹 **[Data Reprocessing Tool](https://github.com)**  
-*Java Spring, Next.js, PostgreSQL, AWS*  
-Built a support tool to **optimize data pipeline operations** for John Deere, reducing manual processing time by **30%** and enhancing operational visibility.
-
-### 🔹 **[Anti-Fraud Blockchain Solution](https://github.com)**  
-*React, Node.js, MongoDB, Solana Blockchain*  
-Designed a **secure blockchain-based solution** to mitigate fraud, leading full-stack development from ideation to deployment.
-
----
-
-## 🤝 **Let's Connect!**
-
-📢 Always open to **collaborations**, **tech discussions**, or **brainstorming** new ideas! Feel free to reach out through my [portfolio](https://lukesmith25.github.io/PortfolioWebsite/), or hit me up on [LinkedIn](https://linkedin.com)!
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Thanks%20for%20Stopping%20By!%20%F0%9F%9A%80&animation=fadeIn&type=waving&color=gradient&height=150"/>
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LukeSmith25&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
